@@ -1,19 +1,19 @@
 # C++ Collection
 
-This repository contains a collection of source code and programming exercises written in **C++**.
+This repository contains a collection of source code and C++ implementations covering various programming concepts, algorithms, data structures, and technical experiments.
 
-It serves as a place to store various C++ implementations, ranging from basic programs, algorithms, and data structures to coding exercises and programming experiments.
+It serves as a centralized repository for maintaining reusable C++ implementations, coding references, and different approaches to solving programming problems.
 
 ## 🛠️ Requirements
 
-To run the programs in this repository, you need a C++ compiler such as:
+To compile and run the programs in this repository, a C++ compiler is required, such as:
 
 * GCC / G++
 * MinGW
 * Clang
 * Microsoft Visual C++
 
-Make sure your compiler supports at least **C++11** or a newer version.
+A compiler with support for at least **C++11** or a newer standard is recommended.
 
 ## ▶️ How to Run
 
@@ -35,7 +35,7 @@ Compile a C++ file:
 g++ filename.cpp -o program
 ```
 
-Run the program:
+Run the compiled program:
 
 ### Windows
 
@@ -51,13 +51,13 @@ program.exe
 
 ## 🎯 Repository Purpose
 
-This repository is used to:
+This repository is maintained to:
 
-* Store C++ learning documentation
-* Collect various C++ source codes
-* Improve problem-solving skills
-* Learn algorithms and data structures
-* Serve as a personal reference for C++ development
+* Organize various C++ source code implementations
+* Document algorithms and data structure implementations
+* Maintain reusable programming references
+* Explore different approaches to computational problems
+* Provide a centralized collection of C++ projects and experiments
 
 ## 🤝 Contribution
 
@@ -73,8 +73,8 @@ To contribute:
 
 ## 📜 License
 
-The source code in this repository may be used for learning and reference purposes.
+The source code in this repository is available for reference, experimentation, and development purposes.
 
 ---
 
-**Happy Coding with C++! 🚀**
+**C++ Collection — Algorithms, Data Structures & Programming Implementations**
