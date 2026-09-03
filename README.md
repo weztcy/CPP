@@ -1,80 +1,61 @@
-# C++ Collection
+# CPP Learning
 
-This repository contains a collection of source code and C++ implementations covering various programming concepts, algorithms, data structures, and technical experiments.
+This repository contains C++ learning materials, programming exercises, and source code implementations covering fundamental programming concepts, algorithms, data structures, and various coding practices.
 
-It serves as a centralized repository for maintaining reusable C++ implementations, coding references, and different approaches to solving programming problems.
+This repository is created as a learning space to explore C++ programming concepts through practical implementations, problem-solving exercises, and programming experiments.
 
-## 🛠️ Requirements
+The source codes in this repository represent learning practices and implementations developed throughout the process of studying C++ programming.
 
-To compile and run the programs in this repository, a C++ compiler is required, such as:
+## 📚 Topics Covered
+
+This repository includes learning implementations related to:
+
+* C++ Programming Fundamentals
+* Variables, Data Types, and Operators
+* Conditional Statements and Loops
+* Functions and Modular Programming
+* Object-Oriented Programming with C++
+* Classes and Objects
+* Inheritance and Polymorphism
+* Arrays and Strings
+* Pointers and References
+* Data Structures
+* Algorithms and Problem Solving
+* Searching and Sorting Algorithms
+* File Handling
+* Standard Template Library (STL)
+* Programming Exercises and Experiments
+
+## 🛠️ Technologies
+
+The main technology used in this repository is:
+
+* C++
+
+Recommended compiler support:
 
 * GCC / G++
 * MinGW
 * Clang
 * Microsoft Visual C++
 
-A compiler with support for at least **C++11** or a newer standard is recommended.
+The programs are developed using modern C++ standards, including **C++11** and newer versions.
 
-## ▶️ How to Run
-
-Clone the repository:
-
-```bash
-git clone https://github.com/weztcy/CPP.git
-```
-
-Navigate to the repository directory:
-
-```bash
-cd CPP
-```
-
-Compile a C++ file:
-
-```bash
-g++ filename.cpp -o program
-```
-
-Run the compiled program:
-
-### Windows
-
-```bash
-program.exe
-```
-
-### Linux / macOS
-
-```bash
-./program
-```
-
-## 🎯 Repository Purpose
+## 🎯 Repository Objective
 
 This repository is maintained to:
 
-* Organize various C++ source code implementations
-* Document algorithms and data structure implementations
-* Maintain reusable programming references
-* Explore different approaches to computational problems
-* Provide a centralized collection of C++ projects and experiments
-
-## 🤝 Contribution
-
-Contributions, improvements, and suggestions are welcome.
-
-To contribute:
-
-1. Fork the repository
-2. Create a new branch
-3. Add or improve the source code
-4. Commit your changes
-5. Create a Pull Request
+* Document the learning process of C++ programming
+* Organize and store C++ exercises and implementations
+* Practice programming logic, algorithms, and problem-solving techniques
+* Explore different approaches to solving computational problems
+* Maintain reusable C++ code examples and references
+* Build a structured record of C++ programming learning progress
 
 ## 📜 License
 
-The source code in this repository is available for reference, experimentation, and development purposes.
+The source code in this repository is available for learning, reference, experimentation, and educational purposes.
 
 ---
 
-**C++ Collection — Algorithms, Data Structures & Programming Implementations**
+**CPP Learning — C++ Programming, Algorithms & Data Structures Practice Repository**
